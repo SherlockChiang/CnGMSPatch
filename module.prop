@@ -1,0 +1,7 @@
+id=cngmspatch
+name=CnGMSPatch
+version=v1.0
+versionCode=1
+author=MinaMiGo
+description=Remove restrictions of google mobile services on Chinese rom such as nearby share and location history. 解除谷歌服务对中国大陆的限制，如附近分享、位置历史。
+minMagisk=1500
